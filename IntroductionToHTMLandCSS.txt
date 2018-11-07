@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+  <head>
+    <title> Experience VR</title>
+  </head>
+  
+  <body>
+   <header>
+    <h1>Experience VR</h1>
+    <p>A simple blog about VR experiences</p>
+      
+       <nav>
+        <ul>
+           <li>Home</li>
+           <li>About</li>
+           <li>Articles</li>
+           <li>Content
+               <ol>
+                  <li>Email</li>
+                  <li>Phone</li>
+                  <li>Address</li>
+               </ol>
+           </li>
+        </ul>
+       </nav>
+     
+    </header>
+      
+    <p>VR is becoming well known as a form of entertainment, but it is also finding it's way into fields like education, industrial design and so much more.</p>
+    <a href="https://teamtreehouse.com/vr" target="_blank">Start your VR journey</a>
+    
+    <section>
+    <h2>About this site</h2>
+    </section>
+    
+    <section> 
+        <h2>Latest VR articles</h2>
+        
+      <article>
+          <h3>How schools use VR to improve education</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultrices euismod turpis eget porta. Etiam nulla massa, pretium et massa nec, ornare dignissim nisi.</p>
+          <a href="#">Read more</a>
+      </article>
+        
+      <article>
+          <h3>The advantages of VR simualation</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ultrices euismod turpis eget porta. Etiam nulla massa, pretium et massa nec, ornare dignissim nisi.</p>
+      </article>
+    </section>
+    
+    <aside>
+      <h3>Top VR Resources</h3>
+      <ol>
+        <a href="https://teamtreehouse.com/vr" target="_blank"><li>Learn to create educational experiences in VR</li></a>
+        <a href="https://teamtreehouse.com/vr" target="_blank"><li>Virtual Reality in Entertainment</li></a>
+        <a href="https://teamtreehouse.com/vr" target="_blank"><li>Interact with buildings and products in VR</li></a>
+        <a href="https://teamtreehouse.com/vr" target="_blank"><li>Use VR for teleconferencing and social media</li></a>
+      </ol>
+    </aside>
+    
+    <section>
+      <h2>Contact</h2>
+      <p>Email us at coolvrexperience@gmail.com</p>
+    </section>
+    
+    <footer>
+      <p>&copy;2017 Experience VR, The Blog</p>
+    </footer>
+  </body>
+  
+</html>
